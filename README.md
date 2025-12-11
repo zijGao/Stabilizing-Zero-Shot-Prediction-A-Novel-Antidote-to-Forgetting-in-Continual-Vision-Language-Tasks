@@ -82,9 +82,10 @@ torchrun run_me.py --config ./configs/continual/5task_VAW_checklist.yaml --zsl_c
 ## Citation
 If you found our work useful for your research, please cite our work:
 
-@inproceedings{gao,
+@inproceedings{Gao,
  author = {Gao, Zijian and Zhang, Xingxing and Xu, Kele and Mao, Xinjun and Wang, Huaimin},
  booktitle = {Advances in Neural Information Processing Systems},
+ doi = {10.52202/079017-4080},
  editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
  pages = {128462--128488},
  publisher = {Curran Associates, Inc.},
@@ -93,3 +94,4 @@ If you found our work useful for your research, please cite our work:
  volume = {37},
  year = {2024}
 }
+
